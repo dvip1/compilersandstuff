@@ -1,0 +1,5 @@
+Studying from: https://craftinginterpreters.com/contents.html
+Currently at: https://craftinginterpreters.com/scanning.html#lexical-errors
+
+Additional Info: 
+//Currently None

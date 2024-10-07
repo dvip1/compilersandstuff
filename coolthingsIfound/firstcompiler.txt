@@ -1,0 +1,6 @@
+This seems like a chicken and egg problem. What came first ? 
+Is it the compiler or the language ? 
+The answer isn't very simple.
+Assembly instructions are (generally) a direct mapping to opcodes, which are muti-bytes values of machine code which can be directly interpreted by processor. 
+So I guess it's the language, because the code is directly being executed by the cpu. 
+https://stackoverflow.com/questions/1653649/how-was-the-first-compiler-written
